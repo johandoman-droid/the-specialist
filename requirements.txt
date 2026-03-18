@@ -2,3 +2,5 @@ fastapi
 uvicorn
 playwright
 beautifulsoup4
+playwright-stealth
+jinja2
